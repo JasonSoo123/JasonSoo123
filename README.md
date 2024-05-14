@@ -1,1 +1,1 @@
-  - uses: user/metrics@master
+user/metrics@master
