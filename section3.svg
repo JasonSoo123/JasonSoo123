@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed6ebe7</div>
-                                        <div class="message">fixed for cmake to work</div>
+                                        <div class="sha">#6b12da9</div>
+                                        <div class="message">started on exec</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a70dc76</div>
-                                        <div class="message">implemented and tested intermediate hash</div>
+                                        <div class="sha">#baaa397</div>
+                                        <div class="message">temp added null to output to exec so it doesnt give invalid free() thing</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39d52e9</div>
-                                        <div class="message">updated intermediate hash made c file to test my hashes</div>
+                                        <div class="sha">#2eec9cb</div>
+                                        <div class="message">removed my test executable</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ba53338</div>
-                                        <div class="message">fixing my uthash for intermediate key pairs</div>
+                                        <div class="sha">#54e1183</div>
+                                        <div class="message">fixed hash stuff, updated the emit i so it groups by key at same time</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5c64b79</div>
-                                        <div class="message">attempted implementation of uthash</div>
+                                        <div class="sha">#c2ac8cd</div>
+                                        <div class="message">fixing the hash stuff</div>
                                     </div>
                                 </div>
                             </section>
@@ -129,8 +129,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e30ae3</div>
-                                        <div class="message">added uthash.h</div>
+                                        <div class="sha">#462ed1b</div>
+                                        <div class="message">fixed hash struct so i can have more than one, made final output hash and attempted to implement mr_emit_i and f</div>
                                     </div>
                                 </div>
                             </section>
