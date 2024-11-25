@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0a9561f</div>
-                                        <div class="message">added linked list stuff and added 00 to msg</div>
+                                        <div class="sha">#a6de6ae</div>
+                                        <div class="message">added type 0 and type 1</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#917b399</div>
-                                        <div class="message">made server recv from client</div>
+                                        <div class="sha">#435af76</div>
+                                        <div class="message">passed server test 1</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#128fe50</div>
-                                        <div class="message">removed the client.c in the main dir</div>
+                                        <div class="sha">#f93d54a</div>
+                                        <div class="message">passed server test 0</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#af346ce</div>
-                                        <div class="message">added the random stuff fixed some issues</div>
+                                        <div class="sha">#0f54654</div>
+                                        <div class="message">changed everything back to char array</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#070533f</div>
-                                        <div class="message">added the convert helper function</div>
+                                        <div class="sha">#e4824d2</div>
+                                        <div class="message">fixed problem with printing in server.c</div>
                                     </div>
                                 </div>
                             </section>
@@ -129,8 +129,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37b747b</div>
-                                        <div class="message">worked on client.c</div>
+                                        <div class="sha">#355ef25</div>
+                                        <div class="message">worked on server.c</div>
                                     </div>
                                 </div>
                             </section>
