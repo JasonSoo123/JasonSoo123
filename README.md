@@ -76,29 +76,10 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasonSoo123&theme=tokyonight&hide_border=true&area=true" />
-</div>
-
----
+## 📬 Contact me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JasonSoo123&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
-
-<p align="center">
-  <em>⭐ Star my repos if you find them interesting!</em>
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/JasonSoo123"><img src="https://img.shields.io/badge/GitHub-JasonSoo123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:jasonsoo@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jks74@sfu.ca"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/jasonsoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
