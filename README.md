@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jason+Soo+%F0%9F%91%8B;CS+Student+at+SFU;Building+a+Pokemon+VGC+Chatbot+%F0%9F%99%8B" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <strong>Computer Science student at Simon Fraser University</strong> • Currently building a specialized <strong>Pokémon VGC (Video Game Championships) chatbot</strong> for competitive battle strategy, team building, and meta analysis.
 </p>
 
@@ -67,19 +63,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasonSoo123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSoo123&layout=compact&theme=tokyonight&hide=html" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonSoo123&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
