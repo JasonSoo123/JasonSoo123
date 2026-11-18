@@ -45,8 +45,6 @@
 - 💡 **Building**: AI-powered applications and intelligent automation
 - 🤝 **Open to**: AI/ML research collaborations and open-source contributions
 
----
-
 ## 📬 Contact me
 
 <p align="center">
