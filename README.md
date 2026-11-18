@@ -6,43 +6,17 @@
 
 ## 🏗️ What I'm Building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/JasonSoo123/pikaai">pikaai</a></h3>
-      <p>Exploring ML concepts and applications — experimenting with model training, evaluation, and deployment pipelines.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 <a href="https://github.com/ltanafranca1004/Cubic">Cubic</a></h3>
-      <p>Cooperative 2-player puzzle game — one inside the cube, one outside. <strong>Best Design Track — StormHacks 2026</strong></p>
-    </td>
-  </tr>
-</table>
+- **🤖 [pikaai](https://github.com/JasonSoo123/pikaai)** — Exploring ML concepts and applications: experimenting with model training, evaluation, and deployment pipelines.
+- **🏆 [Cubic](https://github.com/ltanafranca1004/Cubic)** — Cooperative 2-player puzzle game (one inside the cube, one outside). **Best Design Track — StormHacks 2026**.
 
 ---
 
 ## 📦 Other Projects
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>🏥 <a href="https://github.com/JasonSoo123/NutriFit">NutriFit</a></h3>
-      <p>Health & nutrition tracking web app for monitoring meals, macros, and fitness progress.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>🤖 <a href="https://github.com/JasonSoo123/pikabot">pikabot</a></h3>
-      <p>Extensible bot framework with automation capabilities — building tools for developer productivity and workflow automation.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>🧠 <a href="https://github.com/papaya830/brainrot-lingo">brainrot-lingo</a></h3>
-      <p>AI-powered internet slang decoder — translates gen-z/alpha slang using LLMs. <strong>Most Innovation Hack — StormHacks Fall 2024</strong></p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>🐢 <a href="https://github.com/ltanafranca1004/Turtle-Trips-AI">Turtle-Trips-AI</a></h3>
-      <p>AI-powered trip planner with creative itinerary generation. StormHacks 2025 project.</p>
-    </td>
-  </tr>
-</table>
+- **🏥 [NutriFit](https://github.com/JasonSoo123/NutriFit)** — Health & nutrition tracking web app for monitoring meals, macros, and fitness progress.
+- **🤖 [pikabot](https://github.com/JasonSoo123/pikabot)** — Extensible bot framework with automation capabilities for developer productivity and workflow automation.
+- **🧠 [brainrot-lingo](https://github.com/papaya830/brainrot-lingo)** — AI-powered internet slang decoder translating gen-z/alpha slang using LLMs. **Most Innovation Hack — StormHacks Fall 2024**.
+- **🐢 [Turtle-Trips-AI](https://github.com/ltanafranca1004/Turtle-Trips-AI)** — AI-powered trip planner with creative itinerary generation. StormHacks 2025 project.
 
 ---
 
