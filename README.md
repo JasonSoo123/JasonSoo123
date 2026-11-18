@@ -1,15 +1,13 @@
 <p align="center">
-  <strong>Computer Science student at Simon Fraser University</strong> • Currently building a specialized <strong>Pokémon VGC (Video Game Championships) chatbot</strong> for competitive battle strategy, team building, and meta analysis.
+  Computer Science student at Simon Fraser University, currently building a specialized Pokémon VGC (Video Game Championships) chatbot for competitive battle strategy, team building, and meta analysis.
 </p>
 
----
 
 ## 🏗️ What I'm Building
 
 - **🤖 [pikaai](https://github.com/JasonSoo123/pikaai)** — Exploring ML concepts and applications: experimenting with model training, evaluation, and deployment pipelines.
 - **🏆 [Cubic](https://github.com/ltanafranca1004/Cubic)** — Cooperative 2-player puzzle game (one inside the cube, one outside). **Best Design Track — StormHacks 2026**.
 
----
 
 ## 📦 Other Projects
 
@@ -18,7 +16,6 @@
 - **🧠 [brainrot-lingo](https://github.com/papaya830/brainrot-lingo)** — AI-powered internet slang decoder translating gen-z/alpha slang using LLMs. **Most Innovation Hack — StormHacks Fall 2024**.
 - **🐢 [Turtle-Trips-AI](https://github.com/ltanafranca1004/Turtle-Trips-AI)** — AI-powered trip planner with creative itinerary generation. StormHacks 2025 project.
 
----
 
 ## 🛠️ Tech Stack
 
